@@ -1,8 +1,9 @@
 {
-    "latest_version": "1.1.0",
-    "download_url": "https://github.com/ldman87/Tikzpro-help/releases/download/v1.1.0/hotroTIKZ-help_v1.1.0.zip",
+    "latest_version": "1.2.0",
+    "download_url": "https://github.com/ldman87/Tikzpro-help/releases/download/v1.2.0/TIKZPRO-help_v120.zip",
     "release_notes": [
-        "- Thêm tính năng xem PDF liên tục.",
-        "- Cải thiện chức năng tìm kiếm."
+        "- Nâng cấp chức năng tìm kiếm và đặt tên mã tikz cho thư viện.",
+        "- Cấu hình chức năng biên dịch file tex.",
+        "- Thêm chức năng Tra cứu mã tikz từ tài liệu Tikz manual."
     ]
 }
