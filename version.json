@@ -1,9 +1,10 @@
 {
-    "latest_version": "1.2.0",
-    "download_url": "https://github.com/ldman87/Tikzpro-help/releases/download/v1.2.0/TIKZPRO-help_v120.zip",
+    "latest_version": "1.2.1",
+    "download_url": "https://github.com/ldman87/Tikzpro-help/releases/download/v1.2.1/TIKZPRO-help_v121.zip",
     "release_notes": [
-        "- Nâng cấp chức năng tìm kiếm và đặt tên mã tikz cho thư viện.",
-        "- Cấu hình chức năng biên dịch file tex.",
-        "- Thêm chức năng Tra cứu mã tikz từ tài liệu Tikz manual."
+        "- Nâng cấp công cụ: Thêm lệnh vẽ vector; Tùy chọn đường cong qua các điểm kín/hở",
+        "- Thêm tùy chọn độ dày nét vẽ.",
+        "- Cải tiến chức năng đưa trỏ chuột đến hình thì hình đó sáng lên, thuận lợi khi vẽ các đường liền nhau một cách liên tục.",
+        "- Bổ sung thư viện Tra cứu mã tikz từ tài liệu Tikz manual."
     ]
 }
