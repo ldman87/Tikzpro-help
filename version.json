@@ -1,10 +1,9 @@
 {
-    "latest_version": "1.2.1",
-    "download_url": "https://github.com/ldman87/Tikzpro-help/releases/download/v1.2.1/TIKZPRO-help_v121.zip",
+    "latest_version": "1.2.3",
+    "download_url": "https://github.com/ldman87/Tikzpro-help/releases/download/v1.2.3/TIKZPRO-help_v123.zip",
     "release_notes": [
-        "- Nâng cấp công cụ: Thêm lệnh vẽ vector; Tùy chọn đường cong qua các điểm kín/hở",
-        "- Thêm tùy chọn độ dày nét vẽ.",
-        "- Cải tiến chức năng đưa trỏ chuột đến hình thì hình đó sáng lên, thuận lợi khi vẽ các đường liền nhau một cách liên tục.",
-        "- Bổ sung thư viện Tra cứu mã tikz từ tài liệu Tikz manual."
+        "- Thêm lệnh vẽ tọa độ Điểm và đồ thị hàm số.",
+        "- Thêm lệnh vẽ Bảng xét dấu và bảng biến thiên.",
+        "- Cải tiến sự mượt mà của các nét vẽ."
     ]
 }
