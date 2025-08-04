@@ -2,6 +2,7 @@
     "latest_version": "1.2.4",
     "download_url": "https://github.com/ldman87/Tikzpro-help/releases/download/v1.2.4/TIKZPRO-help_v124.zip",
     "release_notes": [
+        "- Cải thiện chức năng vẽ đồ thị các hàm số bị lỗi khi gặp giá trị không xác định.",
         "- Thêm chức năng vẽ biểu đồ.",
         "- Thêm chức năng trộn đề thi theo cấu trúc mới 3 PHẦN."
     ]
