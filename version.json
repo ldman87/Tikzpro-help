@@ -1,9 +1,8 @@
 {
-    "latest_version": "1.2.3",
-    "download_url": "https://github.com/ldman87/Tikzpro-help/releases/download/v1.2.3/TIKZPRO-help_v123.zip",
+    "latest_version": "1.2.4",
+    "download_url": "https://github.com/ldman87/Tikzpro-help/releases/download/v1.2.4/TIKZPRO-help_v124.zip",
     "release_notes": [
-        "- Thêm lệnh vẽ tọa độ Điểm và đồ thị hàm số.",
-        "- Thêm lệnh vẽ Bảng xét dấu và bảng biến thiên.",
-        "- Cải tiến sự mượt mà của các nét vẽ."
+        "- Thêm chức năng vẽ biểu đồ.",
+        "- Thêm chức năng trộn đề thi theo cấu trúc mới 3 PHẦN."
     ]
 }
